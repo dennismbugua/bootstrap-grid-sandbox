@@ -1,0 +1,10 @@
+.container {
+  background: lightgray;
+  text-align: center;
+}
+.col-md-4,
+.col-md-6,
+.col-md-3,
+.col-md-2 {
+  height: 50px;
+}
